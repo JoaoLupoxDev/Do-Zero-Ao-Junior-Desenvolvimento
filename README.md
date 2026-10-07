@@ -56,17 +56,16 @@ Abaixo está a progressão sugerida para guiar sua jornada de aprendizagem. Cliq
 
 | Etapa | Módulo | Descrição do Conteúdo | Status |
 | :---: | :--- | :--- | :---: |
-| **01** | [01. Fundamentos](01-fundamentos/) | Lógica de programação, algoritmos, variáveis, estruturas condicionais/de repetição e estruturas de dados essenciais. | 🟡 Em produção |
-| **02** | [02. Escolha de Linguagem](02-escolha-de-linguagem/) | Critérios para escolher sua primeira linguagem, sintaxe, paradigmas (estruturado e POO) e ferramentas de desenvolvimento. | 🟡 Em produção |
-| **03** | [03. SQL e Bancos Relacionais](03-sql-e-bancos-relacionais/) | Modelagem relacional, tabelas, chaves primárias/estrangeiras, consultas SQL (SELECT, JOINs) e persistência de dados. | 🟡 Em produção |
-| **04** | [04. Versionamento de Código](04-versionamento-de-codigo/) | Fundamentos de Git: commits, histórico, branches, merges, stash e resolução de conflitos no terminal. | 🟡 Em produção |
-| **05** | [05. Repositórios Remotos](05-repositorios-remotos/) | GitHub na prática: repositórios remotos, clones, forks, Pull Requests, Issues, Projects e fluxo de trabalho em equipe. | 🟡 Em produção |
-| **06** | [06. Redes e Internet](06-redes-e-internet/) | Como a internet funciona, modelo cliente-servidor, endereçamento IP, DNS, TCP/IP, portas e protocolos HTTP/HTTPS. | 🟡 Em produção |
-| **07** | [07. Fundamentos da Web](07-fundamentos-da-web/) | Anatomia do navegador, DOM, requisições assíncronas (Fetch API), HTML semântico, CSS moderno e JavaScript no browser. | 🟡 Em produção |
-| **08** | [08. APIs e Integrações](08-apis-e-integracoes/) | Comunicação entre sistemas, padrão REST/RESTful, verbos HTTP, headers, status codes, formato JSON e consumo de APIs. | 🟡 Em produção |
-| **09** | [09. Segurança](09-seguranca/) | Princípios de segurança, OWASP Top 10 essenciais, autenticação vs autorização, hashing de senhas e gestão de segredos/variáveis de ambiente. | 🟡 Em produção |
-| **10** | [10. MVC](10-mvc/) | Arquitetura Model-View-Controller, separação de responsabilidades, roteamento e organização de projetos backend. | 🟡 Em produção |
-| **11** | [11. Docker](11-docker/) | Introdução a contêineres, imagens, Dockerfile, volumes, redes e orquestração básica com Docker Compose. | 🟡 Em produção |
+| **01** | [01. Fundamentos](01-fundamentos/) | Lógica de programação, algoritmos, variáveis, estruturas condicionais/de repetição e estruturas de dados essenciais. | ⚪ Planejado |
+| **02** | [02. Escolha de Linguagem](02-escolha-de-linguagem/) | Critérios para escolher sua primeira linguagem, sintaxe, paradigmas (estruturado e POO) e ferramentas de desenvolvimento. | ⚪ Planejado |
+| **03** | [03. SQL e Bancos Relacionais](03-sql-e-bancos-relacionais/) | Modelagem relacional, tabelas, chaves primárias/estrangeiras, consultas SQL (SELECT, JOINs) e persistência de dados. | ⚪ Planejado |
+| **04** | [04. Versionamento e Colaboração](04-versionamento-de-codigo/) | Fundamentos de Git, ciclo de vida de arquivos, branches, merges, além de colaboração prática no GitHub (Issues, PRs, Fork, Actions). | 🟡 Em produção |
+| **05** | [05. Redes e Internet](05-redes-e-internet/) | Como a internet funciona, modelo cliente-servidor, endereçamento IP, DNS, TCP/IP, portas e protocolos HTTP/HTTPS. | ⚪ Planejado |
+| **06** | [06. Fundamentos da Web](06-fundamentos-da-web/) | Anatomia do navegador, DOM, requisições assíncronas (Fetch API), HTML semântico, CSS moderno e JavaScript no browser. | ⚪ Planejado |
+| **07** | [07. APIs e Integrações](07-apis-e-integracoes/) | Comunicação entre sistemas, padrão REST/RESTful, verbos HTTP, headers, status codes, formato JSON e consumo de APIs. | ⚪ Planejado |
+| **08** | [08. Segurança](08-seguranca/) | Princípios de segurança, OWASP Top 10 essenciais, autenticação vs autorização, hashing de senhas e gestão de segredos/variáveis de ambiente. | ⚪ Planejado |
+| **09** | [09. MVC](09-mvc/) | Arquitetura Model-View-Controller, separação de responsabilidades, roteamento e organização de projetos backend. | ⚪ Planejado |
+| **10** | [10. Docker](10-docker/) | Introdução a contêineres, imagens, Dockerfile, volumes, redes e orquestração básica com Docker Compose. | ⚪ Planejado |
 
 ---
 
@@ -111,14 +110,13 @@ do-zero-ao-junior/
 ├── 01-fundamentos/                        # Módulo 01: Lógica e Algoritmos
 ├── 02-escolha-de-linguagem/               # Módulo 02: Linguagem e Paradigmas
 ├── 03-sql-e-bancos-relacionais/           # Módulo 03: SQL e Bancos Relacionais
-├── 04-versionamento-de-codigo/            # Módulo 04: Git Local e Fluxos
-├── 05-repositorios-remotos/               # Módulo 05: GitHub e Colaboração
-├── 06-redes-e-internet/                   # Módulo 06: Redes, Protocolos e HTTP
-├── 07-fundamentos-da-web/                 # Módulo 07: Navegadores e Web Fundamentals
-├── 08-apis-e-integracoes/                 # Módulo 08: APIs REST e Integração
-├── 09-seguranca/                          # Módulo 09: Princípios de Segurança de Aplicações
-├── 10-mvc/                                # Módulo 10: Padrão Arquitetural MVC
-├── 11-docker/                             # Módulo 11: Contêineres e Docker
+├── 04-versionamento-de-codigo/            # Módulo 04: Git e GitHub (Versionamento e Colaboração)
+├── 05-redes-e-internet/                   # Módulo 05: Redes, Protocolos e HTTP
+├── 06-fundamentos-da-web/                 # Módulo 06: Navegadores e Web Fundamentals
+├── 07-apis-e-integracoes/                 # Módulo 07: APIs REST e Integração
+├── 08-seguranca/                          # Módulo 08: Princípios de Segurança de Aplicações
+├── 09-mvc/                                # Módulo 09: Padrão Arquitetural MVC
+├── 10-docker/                             # Módulo 10: Contêineres e Docker
 │
 └── assets/                                # Imagens, diagramas e recursos visuais
     ├── 01-fundamentos/
